@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d95f29f5-d607-49bf-8e60-88451346fa66" name="Default Changelist" comment="">
-      <change beforePath="D:/home/algorithms/ :q/numbers" beforeDir="false" />
       <change beforePath="D:/home/game/.idea/workspace.xml" beforeDir="false" afterPath="D:/home/game/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,18 +73,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578311948891</updated>
-      <workItem from="1578311951163" duration="11201000" />
+      <workItem from="1578311951163" duration="11654000" />
     </task>
+    <task id="LOCAL-00001" summary="idea">
+      <created>1578329010854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578329010854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1578329043713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578329043713" />
     <state x="539" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578312858740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="539" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578312858740" />
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1578329027690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578329027690" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1578328953377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1578328953377" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578328232078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
