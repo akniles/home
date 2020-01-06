@@ -1,0 +1,8 @@
+﻿  VS_contest.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 444 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VS_contest.vcxproj -> D:\yandex.school\algorithms\VS_contest\Release\VS_contest.exe
+D:\yandex.school\algorithms\VS_contest\VS_contest.cpp(84): warning C26495: Переменная "FixedSet<Query>::prime_modulo_" не инициализирована. Всегда инициализируйте переменную-член (type.6).
+D:\yandex.school\algorithms\VS_contest\VS_contest.cpp(19): warning C26495: Переменная "Data::size" не инициализирована. Всегда инициализируйте переменную-член (type.6).

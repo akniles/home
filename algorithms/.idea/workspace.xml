@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="algorithms" targetName="algorithms" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ef7b251-1201-46b6-ad9a-62fdae8a628f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="algorithms" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1RWXUzHRciYOLLNoBQZwech0HD6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/home/algorithms/CMakeLists.txt" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/set.h" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\home" />
+      <recent name="D:\yandex.school\algorithms" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open algorithms" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithms" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="algorithms" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ef7b251-1201-46b6-ad9a-62fdae8a628f" name="Default Changelist" comment="" />
+      <created>1569783848217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569783848217</updated>
+      <workItem from="1569783859732" duration="745000" />
+      <workItem from="1569784623037" duration="2393000" />
+      <workItem from="1569787453003" duration="1452000" />
+      <workItem from="1570632499462" duration="44000" />
+      <workItem from="1571044896932" duration="7243000" />
+      <workItem from="1571056642537" duration="6786000" />
+      <workItem from="1571214972498" duration="11494000" />
+      <workItem from="1571242004521" duration="4739000" />
+      <workItem from="1571255626490" duration="11794000" />
+      <workItem from="1571308564623" duration="61000" />
+      <workItem from="1571308678455" duration="12977000" />
+      <workItem from="1571324170968" duration="7972000" />
+      <workItem from="1571481435824" duration="650000" />
+      <workItem from="1571482121501" duration="7665000" />
+      <workItem from="1571519537460" duration="6542000" />
+      <workItem from="1571559828488" duration="23182000" />
+      <workItem from="1571588472569" duration="2956000" />
+      <workItem from="1571666956145" duration="11893000" />
+      <workItem from="1571729793981" duration="17547000" />
+      <workItem from="1571826856230" duration="7931000" />
+      <workItem from="1571837957125" duration="5615000" />
+      <workItem from="1571847618653" duration="5705000" />
+      <workItem from="1571989952152" duration="7045000" />
+      <workItem from="1572000269093" duration="17225000" />
+      <workItem from="1572268969059" duration="14875000" />
+      <workItem from="1572345359371" duration="4215000" />
+      <workItem from="1572353302211" duration="688000" />
+      <workItem from="1572359089454" duration="1157000" />
+      <workItem from="1572360589374" duration="531000" />
+      <workItem from="1572431452037" duration="9608000" />
+      <workItem from="1572444493858" duration="19967000" />
+      <workItem from="1572527056464" duration="53000" />
+      <workItem from="1572527127502" duration="6616000" />
+      <workItem from="1572550989104" duration="11603000" />
+      <workItem from="1572595871975" duration="27004000" />
+      <workItem from="1572635095456" duration="4361000" />
+      <workItem from="1573209453519" duration="1501000" />
+      <workItem from="1573216015942" duration="12914000" />
+      <workItem from="1573398597071" duration="1911000" />
+      <workItem from="1573477553030" duration="25000" />
+      <workItem from="1573479693464" duration="672000" />
+      <workItem from="1573483994312" duration="3836000" />
+      <workItem from="1573649175299" duration="14049000" />
+      <workItem from="1573671359798" duration="1018000" />
+      <workItem from="1573672619548" duration="401000" />
+      <workItem from="1573717004248" duration="12895000" />
+      <workItem from="1573745818722" duration="11384000" />
+      <workItem from="1573814028419" duration="464000" />
+      <workItem from="1573815526489" duration="13655000" />
+      <workItem from="1573899072241" duration="535000" />
+      <workItem from="1573900037951" duration="9032000" />
+      <workItem from="1574070922071" duration="8950000" />
+      <workItem from="1574077492911" duration="7530000" />
+      <workItem from="1574145974430" duration="6991000" />
+      <workItem from="1574323478009" duration="10581000" />
+      <workItem from="1574852714487" duration="19576000" />
+      <workItem from="1574940474674" duration="9017000" />
+      <workItem from="1575370159002" duration="14838000" />
+      <workItem from="1575459181755" duration="14000" />
+      <workItem from="1575549168139" duration="9255000" />
+      <workItem from="1575969363902" duration="35352000" />
+      <workItem from="1576051814198" duration="163000" />
+      <workItem from="1576052349790" duration="8839000" />
+      <workItem from="1576066528014" duration="862000" />
+      <workItem from="1576067411293" duration="10775000" />
+      <workItem from="1576156467293" duration="8909000" />
+      <workItem from="1576831874386" duration="31009000" />
+      <workItem from="1577098558011" duration="2068000" />
+      <workItem from="1578310924829" duration="1018000" />
+      <workItem from="1578326051755" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577098918979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577098918979" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576831962079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576831962079" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1576862991611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1576862991611" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578326130017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578326130017" />
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1577099990039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577099990039" />
+    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1577099990039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577099990039" />
+    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1577099990039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577099990039" />
+    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1577099990039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577099990039" />
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom" timestamp="1577099989939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577099989939" />
+    <state width="1493" height="250" key="GridCell.Tab.1.center" timestamp="1577099989938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577099989938" />
+    <state width="1493" height="250" key="GridCell.Tab.1.left" timestamp="1577099989938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577099989938" />
+    <state width="1493" height="250" key="GridCell.Tab.1.right" timestamp="1577099989939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577099989939" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1576160487210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1576160487210" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578310929131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578310929131" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1576862653751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1576862653751" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576851270208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576851270208" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://D:/home/algorithms/e4.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://D:/home/algorithms/e4.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="data" language="ObjectiveC" />
+        <watch expression="covered_by_others" />
+        <watch expression="covered_by_others[0]" />
+        <watch expression="this-&gt;hash_map_[11]" />
+        <watch expression="minimums.heap_[3]" />
+        <watch expression="indexes" />
+        <watch expression="this-&gt;heap_[0]" />
+        <watch expression="starts" />
+        <watch expression="new_value" />
+        <watch expression="segments" />
+        <watch expression="segments" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
