@@ -1,3 +1,0 @@
-D:/yandex.school/algorithms/Sandbox/out/build/x86-Release/CMakeFiles/Sandbox.dir
-D:/yandex.school/algorithms/Sandbox/out/build/x86-Release/CMakeFiles/edit_cache.dir
-D:/yandex.school/algorithms/Sandbox/out/build/x86-Release/CMakeFiles/rebuild_cache.dir
