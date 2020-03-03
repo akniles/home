@@ -6,7 +6,5 @@ int main() {
     field.create({1, 1}, 5);
     field.create({1, 2}, 5);
     field.move_all();
-
-
     return 0;
 }
